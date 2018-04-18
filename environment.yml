@@ -18,3 +18,4 @@ dependencies:
     - rasterio==1.0a12
     - geopandas
     - geojson
+    
