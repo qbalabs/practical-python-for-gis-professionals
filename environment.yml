@@ -1,4 +1,4 @@
-name: example-environment
+name: python-course-for-gis-pros
 channels:
   - conda-forge
   - pkerichang
