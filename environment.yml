@@ -8,6 +8,7 @@ dependencies:
   - spatialindex
   - libgdal
   - rtree
+  - pip
   - pip:
     - sphinx-gallery
     - pandas
