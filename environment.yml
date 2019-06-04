@@ -16,7 +16,7 @@ dependencies:
     - gdal
     - fiona
     - shapely
-    - rasterio==1.0a12
+    - rasterio
     - geopandas
     - geojson
     
